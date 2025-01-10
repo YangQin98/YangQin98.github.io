@@ -10,6 +10,6 @@ redirect_from:
 
 I'm an assistant engineer. My research interest includes lidar(Light Detection And Ranging).
 
-Email:1351239666@qq.com
+My Email:1351239666@qq.com
 
 [Github](https://github.com/YangQin98) 
